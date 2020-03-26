@@ -10,6 +10,6 @@ main(){
 		}
 	x++;
 	}
-	cout << "number of odd numbers between 1-40 : " << z << endl;
+	cout << "number of odd-numbers between 1-40 : " << z << endl;
 	return 0;
 }
